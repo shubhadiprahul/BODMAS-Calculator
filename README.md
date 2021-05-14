@@ -7,5 +7,5 @@ BODMAS stands for Bracket, Of, Division, Multiplication, Addition, and Subtracti
 This is a simple bodmas calulator using python. I tried not to use any inbuilt functions like eval or anyhting. I used the basic concepts of python.
 
 ## How to Run
-Just install python on your terminal in ubuntu and with the command `python3 bodmas_calc.py` you will be asked to enter expression to solve as input. Just give any input. :-)
+Just install python on your terminal in ubuntu and with the command `python3 BODMASCALU.py` you will be asked to enter expression to solve as input. Just give any input. :-)
 
